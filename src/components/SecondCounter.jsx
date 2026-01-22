@@ -29,7 +29,7 @@ function SecondCounter() {
 
   if (alerta===second) {
         
-        alert("ALERTA LLEGASTE AL NUMERO !!");
+        alert("ALERTA LLEGASTE AL NUMERO QUE QUERIAS !!");
     }
   
   useEffect(()=>{
